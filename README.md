@@ -1,3 +1,5 @@
+Tic Tac Toe [Play Now](https://hopeful-colden-700a07.netlify.com/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
